@@ -3,7 +3,7 @@
   <p align="center">
     <strong>Mobile App Developer</strong>
   </p>
-  <a href="https://play.google.com/store/apps/dev?id=9198297285603677585">
+  <a href="">
     <img alt="Playstore" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
   </a>
   <a href="https://facebook.com/profile.php?id=100010428010043">
@@ -15,7 +15,7 @@
   <a href="https://twitter.com/dikiotang">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://dikiotang.com">
+  <a href="https://otang.dev">
     <img alt="Website" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
   </a>
   <br/>
