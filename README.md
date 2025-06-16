@@ -15,7 +15,7 @@
   <a href="https://twitter.com/dikiotang">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://otang.dev">
+  <a href="https://otang.id">
     <img alt="Website" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
   </a>
   <br/>
@@ -39,15 +39,15 @@
   <p align="center">
     <strong>Top Repo</strong>
   </p>
-  <a href="https://github.com/Otang45/muslim-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otang45&repo=muslim-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Otang45/muslim-api" alt="GitHub Streak">
+  <a href="https://github.com/otangid/muslim-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otangid&repo=muslim-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/otangid/muslim-api" alt="GitHub Streak">
   </a>
   <br/>
-  <a href="https://github.com/Otang45/Pulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otang45&repo=Pulse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Otang45/Pulse" alt="GitHub Streak">
+  <a href="https://github.com/otangid/Pulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otangid&repo=Pulse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/otangid/Pulse" alt="GitHub Streak">
   </a>
   <br/>
-  <a href="https://github.com/Otang45?tab=repositories">
+  <a href="https://github.com/otangid?tab=repositories">
     <img alt="All Repo" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white">
   </a>
   <br/>
@@ -56,22 +56,22 @@
     <strong>Stats</strong>
   </p>
   <p align="center">
-    <a href="https://github.com/Otang45">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otang45&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
+    <a href="https://github.com/otangid">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=otangid&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
     </a>
   </p>
   <p align="center">
-  <a href="https://github.com/Otang45">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otang45&theme=radical" alt="GitHub Contribution"/>
+  <a href="https://github.com/otangid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otangid&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 <a> 
-  <a href="https://github.com/Otang45">
-    <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Otang45&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/otangid">
+    <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=otangid&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </a>
   <br/>
-  <a href="https://github.com/Otang45">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Otang45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/otangid">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=otangid&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </a>
 </div>
